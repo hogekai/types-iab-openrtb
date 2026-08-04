@@ -515,7 +515,7 @@ export interface Site {
   /** Publisher details */
   publisher?: Publisher;
   /** Content details */
-  content?: Record<string, unknown>;
+  content?: Content;
   /** Comma separated keywords */
   keywords?: string;
   /** Array of keywords */
