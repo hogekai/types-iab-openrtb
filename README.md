@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This repository is archived.** Development continues in the [hogekai/iab-types](https://github.com/hogekai/iab-types/tree/main/packages/types-iab-openrtb) monorepo, published on npm as [`iab-openrtb`](https://www.npmjs.com/package/iab-openrtb).
+
 # iab-openrtb
 
 TypeScript type definitions for IAB Tech Lab's OpenRTB (Open Real-Time Bidding) specification
